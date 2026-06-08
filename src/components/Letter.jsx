@@ -79,7 +79,6 @@ export default function Letter() {
             Iglesia Católica - Nueva Holanda
           </p>
           
-          {/* Enlace oficial de Google Maps con tus coordenadas exactas */}
           <a 
             href="https://www.google.com/maps/search/?api=1&query=11.546864, -84.553051" 
             target="_blank" 
