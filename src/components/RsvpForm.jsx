@@ -9,7 +9,7 @@ export default function RsvpForm() {
   const [enviado, setEnviado] = useState(false);
 
   // 🚨 REEMPLAZA ESTE ENLACE CON TU URL DE GOOGLE APPS SCRIPT
-  const GOOGLE_SCRIPT_URL = "TU_URL_DE_GOOGLE_APPS_SCRIPT_AQUI";
+  const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzX0CgWNXQuTPQANfRaIF8klAp7bTiagXSFepbVzdfKttoa-iF_eKXplNkWo-EMRG8j/exec";
 
   const handleNombreChange = (index, value) => {
     const nuevosNombres = [...nombres];
