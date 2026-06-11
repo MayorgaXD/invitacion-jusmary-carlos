@@ -59,7 +59,7 @@ export default function RsvpForm() {
       {!enviado ? (
         <form onSubmit={handleSubmit} className="w-full flex flex-col text-left relative z-10">
           <h3 className="font-serif text-lg text-[#1c2d42] text-center mb-5 font-bold tracking-wide">
-            Confirmación de asistencia
+            Confirmación de asistencia, Seleccione las opciones:
           </h3>
 
           {/* SELECTOR DE ASISTENCIA GLOBAL */}

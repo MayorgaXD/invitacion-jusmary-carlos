@@ -76,7 +76,7 @@ export default function Letter() {
             Ubicación de la Boda
           </span>
           <p className="font-serif italic text-base text-boda-text/90">
-            Iglesia Católica - Nueva Holanda
+            Iglesia Católica - Nueva Holanda 
           </p>
           
           <a 
